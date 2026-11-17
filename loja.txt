@@ -1,0 +1,4 @@
+1|Camiseta Básica|Vestuário|49.90|30|Moda Brasil
+2|Mouse Óptico USB|Informática|59.99|15|TecnoShop
+3|Shampoo 300ml|Higiene Pessoal|22.50|40|Beleza Pura
+4|Café 500g|Alimentos|18.00|25|Grãos do Sul
